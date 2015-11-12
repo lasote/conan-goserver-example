@@ -1,5 +1,5 @@
 [requires]
-martini/1.0@lasote/stable
+go-martini/1.0@lasote/stable
 
 [imports]
 src, * -> ./deps/src 
