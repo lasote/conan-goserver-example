@@ -2,7 +2,7 @@
 
 
 [requires]
-    martini/1.Y.Z
+    go-martini/1.Y.Z
 
 [options]
 
@@ -11,7 +11,7 @@
 
 
 [full_requires]
-    inject/1.0@lasote/stable:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
-    martini/1.0@lasote/stable:fdf4eaa39b2e7d2cd0ffb73a85c05866d7a735ce
+    go-inject/1.0@lasote/stable:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+    go-martini/1.0@lasote/stable:de87973e0eb96e82d8eee272df6a29ea49aa5072
 
 [full_options]
