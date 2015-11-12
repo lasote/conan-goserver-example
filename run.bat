@@ -1,4 +1,4 @@
 conan install
-SET GOPATH=%GOPATH%;%chdir%/deps
+SET GOPATH=%GOPATH%;%CD%/deps
 cd src/server
 go run main.go
